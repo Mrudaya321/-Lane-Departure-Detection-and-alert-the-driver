@@ -39,13 +39,25 @@ departures, providing timely warnings to the driver under diverse driving situat
 and
  large labeled datasets.
  Easy to debug - Steps are visible and adjustable.
+ 
+ # installation:
+```pip install numpy opencv-python```
+
+# Run lane detection script
+
+```python lane_detection.py```
+
+
 
 # Output :
 
 
 
 
-https://github.com/user-attachments/assets/be9e086c-17ab-4b6f-b5e4-909da23d563d
+https://github.com/user-attachments/assets/fdd098c0-3e65-42de-ae07-0ec948e24ab1
+
+
+
 
 
 
