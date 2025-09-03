@@ -7,7 +7,7 @@ is to design and implement an effective lane departure detection system using a
 camera-based vision pipeline that can robustly identify lane boundaries and detect 
 departures, providing timely warnings to the driver under diverse driving situations
 
-# The method used 
+# The method used :
  Classical Computer Vision Methods
  
  Canny Edge Detection
@@ -39,5 +39,38 @@ departures, providing timely warnings to the driver under diverse driving situat
 and
  large labeled datasets.
  Easy to debug - Steps are visible and adjustable.
+
+# Output :
+
+
+
+
+https://github.com/user-attachments/assets/be9e086c-17ab-4b6f-b5e4-909da23d563d
+
+
+
+
+
+
+
+# FINAL OBJECTIVE :
+To develop a real-time lane departure detection system utilizing camera vision techniques 
+that:
+ 
+ • Accurately identifies lane boundaries using a sequence of classical computer vision 
+operations (e.g., grayscale conversion, Gaussian blurring, ROI masking, edge detection, 
+Hough Transform).
+ 
+ • Calculates the vehicle's lateral position relative to the detected lanes to continuously 
+monitor safe lane discipline.
+ 
+ • Detects unintentional lane departures by evaluating vehicle position with respect to lane 
+centers and triggers warnings when thresholds are exceeded.
+ 
+ • Demonstrates robustness to typical driving conditions, including variable lighting,
+ shadows, slight occlusions, and moderately degraded lane markings.
+
+
+
 
 
