@@ -40,6 +40,11 @@ and
  large labeled datasets.
  Easy to debug - Steps are visible and adjustable.
 
+  # Flowchart 
+
+ <img width="790" height="667" alt="image" src="https://github.com/user-attachments/assets/b3b917f5-6f18-460f-a7b7-eb991db5a462" />
+
+
   # Requirements 
   
   numpy
