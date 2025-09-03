@@ -69,6 +69,12 @@ https://github.com/Mrudaya321/-Lane-Departure-Detection-and-alert-the-driver.git
 ![Demo](output_videos/gif.mp4)
 
 
+# Screenshots 
+<img width="1051" height="573" alt="image" src="https://github.com/user-attachments/assets/3811da22-bbf3-4fad-a179-949e4f9c8113" />
+
+
+
+<img width="1045" height="576" alt="image" src="https://github.com/user-attachments/assets/b1a39885-84fa-466c-bdf7-5ebd8171e594" />
 
 
 
