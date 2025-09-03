@@ -55,7 +55,7 @@ https://github.com/Mrudaya321/-Lane-Departure-Detection-and-alert-the-driver.git
 
 ## Screenshots
 
-![Detection Example](screenshots/image.jpg)
+![Lane Detection Result](output%20videos/gif.mp4))
 
 
 
