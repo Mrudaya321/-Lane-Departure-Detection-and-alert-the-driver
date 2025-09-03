@@ -6,3 +6,38 @@ lighting, worn or obscured lane markings, and varying road conditions. The probl
 is to design and implement an effective lane departure detection system using a 
 camera-based vision pipeline that can robustly identify lane boundaries and detect 
 departures, providing timely warnings to the driver under diverse driving situations
+
+# The method used 
+ Classical Computer Vision Methods
+ 
+ Canny Edge Detection
+ 
+ Gaussian Blur
+ 
+ Region Masking
+ 
+ Color Space Adjustments (HSV, RGB Thresholding)
+ 
+ Hough Transform (Hough Line, Hough Shift)
+ 
+ Averaging/Extrapolating Detected Lines
+ 
+ Kalman Filter
+
+# Why Choose Camera Vision Pipelines?
+ 
+ • Simple - Easy to code using OpenCV (grayscale, edges, Hough lines).
+ 
+ • Low-cost - Needs only a camera and a basic PC.
+ 
+ • Lightweight - Runs on laptops or Raspberry Pi in real-time.
+ 
+ • No sensors needed - Unlike data fusion, which requires vehicle sensors (yaw,
+ steering, etc.).
+ 
+ • No GPU or big data needed - Unlike deep learning, which needs powerful GPU 
+and
+ large labeled datasets.
+ Easy to debug - Steps are visible and adjustable.
+
+
